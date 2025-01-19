@@ -1,0 +1,102 @@
+gender,age,course,year_of_study,CGPA,marital_status,depression,anxiety,panic_attack,Did you seek any specialist for a treatment?
+Female,18,Engineering,Year 1,3.00 - 3.49,Single,Yes,No,Yes,No
+Male,21,Islamic education,Year 2,3.00 - 3.49,Single,No,Yes,No,No
+Male,19,BIT,Year 1,3.00 - 3.49,Single,Yes,Yes,Yes,No
+Female,22,Laws,Year 3,3.00 - 3.49,Married,Yes,No,No,No
+Male,23,Mathemathics,Year 4,3.00 - 3.49,Single,No,No,No,No
+Male,19,Engineering,Year 2,3.50 - 4.00,Single,No,No,Yes,No
+Female,23,Pendidikan islam,Year 2,3.50 - 4.00 ,Married,Yes,No,Yes,No
+Female,18,BCS,Year 1,3.50 - 4.00,Single,No,Yes,No,No
+Female,19,Human Resources,Year 2,2.50 - 2.99,Single,No,No,No,No
+Male,18,Irkhs,Year 1,3.50 - 4.00,Single,No,Yes,Yes,No
+Female,20,Psychology,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,24,Engineering,Year 3,3.50 - 4.00,Married,Yes,No,No,No
+Female,18,BCS,Year 1,3.00 - 3.49,Single,Yes,No,No,No
+Male,19,Engineering,Year 1,3.00 - 3.49,Single,No,No,No,No
+Female,18,KENMS,Year 2,3.50 - 4.00,Single,No,Yes,No,No
+Male,24,BCS,Year 3,3.50 - 4.00,Single,No,No,No,No
+Female,24,Accounting ,Year 3,3.00 - 3.49,Single,No,No,No,No
+Female,24,ENM,Year 4,3.00 - 3.49,Married,Yes,Yes,Yes,No
+Female,20,BIT,Year 2,3.50 - 4.00,Single,No,Yes,No,No
+Female,18,Marine science,Year 2,3.50 - 4.00,Married,Yes,Yes,Yes,No
+Female,19,Engineering,Year 1,3.00 - 3.49,Single,No,No,Yes,No
+Female,18,KOE,Year 2,3.00 - 3.49,Single,No,No,No,No
+Female,24,BCS,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,24,Engineering,Year 1,3.00 - 3.49,Single,No,No,No,No
+Female,23,BCS,Year 3,3.50 - 4.00,Single,Yes,Yes,Yes,No
+Female,18,Banking Studies,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,19,Engineering,Year 1,3.50 - 4.00,Single,No,No,No,No
+Male,18,Engineering,Year 2,3.00 - 3.49,Married,Yes,Yes,No,No
+Female,24,BIT,Year 3,3.50 - 4.00,Married,Yes,Yes,Yes,Yes
+Female,24,BCS,Year 4,3.50 - 4.00,Single,No,No,No,No
+Female,23,Business Administration,Year 2,3.00 - 3.49,Single,No,No,No,No
+Male,18,BCS,Year 2,3.00 - 3.49,Single,No,No,No,No
+Male,19,BCS,Year 1,3.50 - 4.00,Single,No,No,Yes,No
+Male,18,BCS,Year 2,3.50 - 4.00,Married,Yes,Yes,No,Yes
+Female,19,BIT,Year 1,3.00 - 3.49,Single,Yes,Yes,Yes,No
+Female,18,Engineering,Year 1,2.00 - 2.49,Single,No,No,No,No
+Female,18,Law,Year 3,3.00 - 3.49,Single,Yes,Yes,No,No
+Female,19,BIT,Year 1,2.50 - 2.99,Single,Yes,Yes,Yes,No
+Female,18,KIRKHS,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,24,Engineering,Year 2,2.50 - 2.99,Married,Yes,No,Yes,Yes
+Female,24,BIT,Year 3,3.00 - 3.49,Single,No,Yes,No,No
+Female,22,Engineering,Year 4,3.50 - 4.00,Single,No,No,No,No
+Female,20,Usuluddin ,Year 2,3.00 - 3.49,Single,Yes,No,No,No
+Male,20,BIT,Year 1,0 - 1.99,Single,No,No,No,No
+Male,23,TAASL,Year 2,3.50 - 4.00,Single,No,No,Yes,No
+Male,18,BCS,Year 1,3.50 - 4.00,Single,No,Yes,Yes,No
+Female,19,Engineering,Year 1,3.50 - 4.00,Single,No,Yes,No,No
+Female,18,Engine,Year 4,3.50 - 4.00,Single,No,No,No,No
+Male,24,BCS,Year 2,3.00 - 3.49,Single,Yes,No,No,No
+Female,24,BCS,Year 3,3.50 - 4.00,Single,No,No,Yes,No
+Female,23,ALA,Year 1,2.50 - 2.99,Married,Yes,No,Yes,Yes
+Female,18,BCS,Year 2,3.50 - 4.00,Single,No,Yes,No,No
+Female,19,Biomedical science,Year 3,3.00 - 3.49,Single,No,No,No,No
+Female,20,koe,Year 3,3.00 - 3.49,Married,Yes,Yes,Yes,No
+Female,19,BCS,Year 1,3.50 - 4.00,Single,Yes,No,Yes,Yes
+Male,21,BCS,Year 1,3.00 - 3.49,Single,No,No,No,No
+Male,23,Kirkhs,Year 3,3.50 - 4.00,Single,No,No,No,No
+Female,20,BENL,Year 3,3.00 - 3.49,Single,Yes,Yes,No,No
+Female,18,BCS,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,23,Benl,Year 1,3.00 - 3.49,Single,No,No,No,No
+Female,18,IT,Year 3,3.00 - 3.49,Single,No,No,Yes,No
+Female,19,BCS,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,18,CTS,Year 1,3.50 - 4.00,Single,No,No,Yes,No
+Female,24,engin,Year 1,3.50 - 4.00,Single,No,No,Yes,No
+Female,24,Engine,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,23,Econs,Year 1,3.50 - 4.00,Single,Yes,Yes,No,No
+Female,18,KOE,Year 3,3.00 - 3.49,Single,No,Yes,No,No
+Male,19,MHSC,Year 3,3.00 - 3.49,Married,Yes,No,Yes,No
+Female,18,Malcom,Year 1,3.50 - 4.00,Single,Yes,No,No,No
+Female,24,Kop,Year 4,3.00 - 3.49,Single,No,Yes,No,No
+Female,24,Biomedical science,Year 1,3.00 - 3.49,Single,No,No,No,No
+Female,18,Laws,Year 3,3.50 - 4.00,Single,No,No,Yes,No
+Female,19,BIT,Year 3,3.00 - 3.49,Married,Yes,No,No,No
+Male,18,Biomedical science,Year 1,0 - 1.99,Single,No,No,No,No
+Male,24,BIT,Year 3,3.50 - 4.00,Single,No,Yes,No,No
+Female,24,KOE,Year 1,3.50 - 4.00,Single,No,Yes,Yes,No
+Female,23,Engineering,Year 1,3.00 - 3.49,Single,Yes,No,No,No
+Female,18,Human Sciences ,Year 2,3.00 - 3.49,Single,No,No,Yes,No
+Female,19,Biotechnology,Year 3,0 - 1.99,Single,No,No,No,No
+Female,18,Engineering,Year 4,3.50 - 4.00,Single,No,No,No,No
+Female,24,Communication ,Year 2,3.50 - 4.00,Married,Yes,Yes,Yes,No
+Female,24,Diploma Nursing,Year 2,3.50 - 4.00,Single,No,No,No,No
+Female,19,Engineering,Year 1,3.00 - 3.49,Single,Yes,Yes,No,No
+Female,19,Pendidikan Islam ,Year 2,3.00 - 3.49,Single,No,No,No,No
+Male,23,Radiography,Year 1,3.00 - 3.49,Single,No,No,No,No
+Female,18,psychology,Year 1,3.50 - 4.00,Single,Yes,Yes,No,Yes
+Female,19,Fiqh fatwa ,Year 3,3.00 - 3.49,Single,No,No,No,No
+Female,18,psychology,Year 1,3.50 - 4.00,Single,Yes,Yes,Yes,No
+Male,24,BIT,Year 1,3.00 - 3.49,Single,No,Yes,No,No
+Male,24,Engineering,Year 2,2.00 - 2.49,Single,No,No,Yes,No
+Female,23,DIPLOMA TESL,Year 3,3.50 - 4.00,Single,No,No,Yes,No
+Male,18,Koe,Year 2,3.00 - 3.49,Single,No,Yes,No,No
+Female,19,KOE,Year 2,3.00 - 3.49,Married,Yes,No,No,No
+Female,18,BENL,Year 1,3.00 - 3.49,Single,Yes,No,No,No
+Female,24,Fiqh,Year 3,0 - 1.99,Single,No,No,Yes,No
+Female,18,Islamic Education,Year 1,3.50 - 4.00,Single,No,No,No,No
+Female,21,BCS,Year 1,3.50 - 4.00,Single,No,Yes,No,No
+Male,18,Engineering,Year 2,3.00 - 3.49,Single,Yes,Yes,No,No
+Female,19,Nursing ,Year 3,3.50 - 4.00,Married,Yes,No,Yes,No
+Female,23,Pendidikan Islam,Year 4,3.50 - 4.00,Single,No,No,No,No
+Male,20,Biomedical science,Year 2,3.00 - 3.49,Single,No,No,No,No
